@@ -1,0 +1,28 @@
+{
+  "name": "signalr-service",
+  "version": "2.4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "Charles França",
+    "email": "charles-franca@live.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "signalr-service.umd.js",
+  "module": "signalr-service.js",
+  "jsnext:main": "signalr-service.js",
+  "typings": "signalr-service.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
